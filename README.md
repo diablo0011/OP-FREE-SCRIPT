@@ -6,7 +6,7 @@ Thanks! Here's your complete promotional README article for the **Dead Rails** R
 
 Looking to survive and thrive in the intense chaos of *Dead Rails*? The **Dead Rails Script** gives you god-tier automation for looting, healing, and farming enemies—so you can focus on being the last one standing. And the best part? It's **100% free and keyless**.
 
-![script-image](image-link-placeholder)
+![script-image](https://github.com/diablo0011/OP-FREE-SCRIPT/blob/main/Dead%20Rails%20-%20Dominate%20the%20Apocalypse.png)
 
 ---
 
